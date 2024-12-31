@@ -11,6 +11,10 @@
     border-color: var(--text-color) !important;
 }
 
+.highlight {
+    color: #c3aeff;
+}
+
 .progress-title {
     font-size: 16px;
     font-weight: 700;

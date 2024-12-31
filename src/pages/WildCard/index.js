@@ -31,20 +31,20 @@ export const WildCard = () => {
       </Row>
 
       <Row className="sec_sp">
-        <Col>
-          <Carousel indicators={false}>
-            {wildcard.map((image, index) => (
-              <Carousel.Item key={index}>
-                <img
-                  className="d-block w-100"
-                  src={image.src}
-                  alt={image.alt} // Use the alt attribute
-                />
-              </Carousel.Item>
-            ))}
-          </Carousel>
-        </Col>
-      </Row>
+  <Col>
+    <Carousel indicators={false}>
+      {wildcard.map((image, index) => (
+        <Carousel.Item key={index}>
+          <img
+            className="d-block w-100"
+            src={image.src}
+            alt={image.alt} // Use the alt attribute
+          />
+        </Carousel.Item>
+      ))}
+    </Carousel>
+  </Col>
+</Row>
 
 
       <Row className=" sec_sp">

@@ -7,6 +7,10 @@ section {
     transition: all .5s ease-in;
 }
 
+.intro .mb-1x {
+    margin-bottom: 2rem;
+}
+
 .who_am_I {
     font-family: Cinzel;
 }
