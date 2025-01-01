@@ -1,7 +1,4 @@
-Hi! Welcome to the repository for my personal portfolio <3
+Hi! Check out my live website at https://lehosoda.github.io/ <3
 
-Check out the live website at https://lehosoda.github.io/
+[Template Used](https://ubaimutl.github.io/react-portfolio/)
 
-
-
-Template Used: https://ubaimutl.github.io/react-portfolio/
