@@ -1,4 +1,4 @@
-Hi! Check out my live website at https://lehosoda.github.io/ <3
+Hi! Check out my live website at https://lehosoda.github.io/ 
 
-[Template Used](https://ubaimutl.github.io/react-portfolio/)
+[Link to template](https://ubaimutl.github.io/react-portfolio/)
 
