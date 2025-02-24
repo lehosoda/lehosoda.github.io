@@ -1,0 +1,20 @@
+.highlight {
+    color: #c3aeff;
+}
+
+.About-header {
+  padding-bottom: 50px;
+}
+
+.carousel-description {
+  display: none;
+  font-size: 16px;
+}
+
+.carousel-description.active {
+  display: block;
+}
+
+.carousel img {
+  margin-bottom: 20px;
+}
